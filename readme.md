@@ -1,4 +1,4 @@
 ---
 title: 'githubsearchv2'
 ---
-Using the Github api I recreated the prior project. Use your own api key in github.js for this to work
+Here I'm using the GitHub API to make an app that searches through users depending on the input by the user. Another project using Bootstrap.
